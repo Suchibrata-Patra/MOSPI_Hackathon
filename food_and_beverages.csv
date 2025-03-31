@@ -1,0 +1,426 @@
+Year,Month,State,Description,Rural,Urban,Combined,Status
+2013,January,ALL India,Food and beverages,105.5,105.9,105.6,F
+2013,January,Andaman and Nicobar Islands,Food and beverages,105.7,107.7,106.5,F
+2013,January,Andhra Pradesh,Food and beverages,106.6,107.6,106.9,F
+2013,February,ALL India,Food and beverages,106.3,107.2,106.6,F
+2013,February,Andaman and Nicobar Islands,Food and beverages,105.9,103.4,104.9,F
+2013,February,Andhra Pradesh,Food and beverages,108,109.6,108.5,F
+2013,March,ALL India,Food and beverages,106.6,107.3,106.9,F
+2013,March,Andaman and Nicobar Islands,Food and beverages,105.3,103.9,104.7,F
+2013,March,Andhra Pradesh,Food and beverages,107.4,108.3,107.7,F
+2013,April,ALL India,Food and beverages,107.1,108.8,107.7,F
+2013,April,Andaman and Nicobar Islands,Food and beverages,105.4,103,104.4,F
+2013,April,Andhra Pradesh,Food and beverages,108.8,110.4,109.3,F
+2013,May,ALL India,Food and beverages,108.1,111.1,109.2,F
+2013,May,Andaman and Nicobar Islands,Food and beverages,106.2,110.5,108,F
+2013,May,Andhra Pradesh,Food and beverages,111.2,114.3,112.1,F
+2013,June,ALL India,Food and beverages,110.6,115,112.2,F
+2013,June,Andaman and Nicobar Islands,Food and beverages,108.1,119.8,112.9,F
+2013,June,Andhra Pradesh,Food and beverages,115,120.1,116.5,F
+2013,July,ALL India,Food and beverages,113.1,117.5,114.7,F
+2013,July,Andaman and Nicobar Islands,Food and beverages,109.1,119.1,113.2,F
+2013,July,Andhra Pradesh,Food and beverages,117.2,118.3,117.5,F
+2013,August,ALL India,Food and beverages,114.9,119.6,116.6,F
+2013,August,Andaman and Nicobar Islands,Food and beverages,111.6,117.9,114.2,F
+2013,August,Andhra Pradesh,Food and beverages,119.3,120.9,119.8,F
+2013,September,ALL India,Food and beverages,117.8,119.2,118.3,F
+2013,September,Andaman and Nicobar Islands,Food and beverages,109.5,115.6,112,F
+2013,September,Andhra Pradesh,Food and beverages,120.9,120.4,120.7,F
+2013,October,ALL India,Food and beverages,119.8,120.8,120.2,F
+2013,October,Andaman and Nicobar Islands,Food and beverages,111.8,118.3,114.5,F
+2013,October,Andhra Pradesh,Food and beverages,121.3,119.3,120.7,F
+2013,November,ALL India,Food and beverages,122.5,122.9,122.6,F
+2013,November,Andaman and Nicobar Islands,Food and beverages,114.4,119,116.3,F
+2013,November,Andhra Pradesh,Food and beverages,122.2,121.8,122.1,F
+2013,December,ALL India,Food and beverages,118.7,117.8,118.4,F
+2013,December,Andaman and Nicobar Islands,Food and beverages,115.4,122.2,118.2,F
+2013,December,Andhra Pradesh,Food and beverages,120.6,118.4,119.9,F
+2014,January,ALL India,Food and beverages,116,115.5,115.8,F
+2014,January,Andaman and Nicobar Islands,Food and beverages,113.8,115.4,114.5,F
+2014,January,Andhra Pradesh,Food and beverages,117.2,116,116.8,F
+2014,February,ALL India,Food and beverages,115.3,115.2,115.3,F
+2014,February,Andaman and Nicobar Islands,Food and beverages,111.4,113.4,112.2,F
+2014,February,Andhra Pradesh,Food and beverages,117,114.6,116.3,F
+2014,March,ALL India,Food and beverages,116.2,116,116.1,F
+2014,March,Andaman and Nicobar Islands,Food and beverages,113.9,111.4,112.9,F
+2014,March,Andhra Pradesh,Food and beverages,117,114.7,116.3,F
+2014,April,ALL India,Food and beverages,117.2,118.2,117.6,F
+2014,April,Andaman and Nicobar Islands,Food and beverages,115,112.9,114.1,F
+2014,April,Andhra Pradesh,Food and beverages,117.5,117.2,117.4,F
+2014,May,ALL India,Food and beverages,118.2,120,118.9,F
+2014,May,Andaman and Nicobar Islands,Food and beverages,114.5,118.4,116.1,F
+2014,May,Andhra Pradesh,Food and beverages,119.2,120,119.4,F
+2014,June,ALL India,Food and beverages,119.5,122,120.4,F
+2014,June,Andaman and Nicobar Islands,Food and beverages,117.9,119.4,118.5,F
+2014,June,Andhra Pradesh,Food and beverages,120.6,122.6,121.2,F
+2014,July,ALL India,Food and beverages,123.3,127.1,124.7,F
+2014,July,Andaman and Nicobar Islands,Food and beverages,118,118.9,118.4,F
+2014,July,Andhra Pradesh,Food and beverages,125.3,128,126.1,F
+2014,August,ALL India,Food and beverages,125.3,128.9,126.6,F
+2014,August,Andaman and Nicobar Islands,Food and beverages,120.3,122.5,121.2,F
+2014,August,Andhra Pradesh,Food and beverages,126,129.2,127,F
+2014,September,ALL India,Food and beverages,125.3,126.7,125.8,F
+2014,September,Andaman and Nicobar Islands,Food and beverages,124.6,122.5,123.7,F
+2014,September,Andhra Pradesh,Food and beverages,123.9,125.3,124.3,F
+2014,October,ALL India,Food and beverages,125.1,125.8,125.4,F
+2014,October,Andaman and Nicobar Islands,Food and beverages,124,124.3,124.1,F
+2014,October,Andhra Pradesh,Food and beverages,123.3,123.9,123.5,F
+2014,November,ALL India,Food and beverages,124.9,125.4,125.1,F
+2014,November,Andaman and Nicobar Islands,Food and beverages,127.5,125.7,126.8,F
+2014,November,Andhra Pradesh,Food and beverages,124.8,125.2,124.9,F
+2014,December,ALL India,Food and beverages,123.3,124,123.6,F
+2014,December,Andaman and Nicobar Islands,Food and beverages,127.7,123.2,125.8,F
+2014,December,Andhra Pradesh,Food and beverages,124.4,123.8,124.2,F
+2015,January,ALL India,Food and beverages,122.8,123.5,123.1,F
+2015,January,Andaman and Nicobar Islands,Food and beverages,123.8,123.4,123.6,F
+2015,January,Andhra Pradesh,Food and beverages,125.1,123.6,124.6,F
+2015,February,ALL India,Food and beverages,122.8,123.7,123.1,F
+2015,February,Andaman and Nicobar Islands,Food and beverages,122.5,121.8,122.2,F
+2015,February,Andhra Pradesh,Food and beverages,125.7,123.5,125,F
+2015,March,ALL India,Food and beverages,123.1,123.9,123.4,F
+2015,March,Andaman and Nicobar Islands,Food and beverages,124.9,120.7,123.2,F
+2015,March,Andhra Pradesh,Food and beverages,125.6,123.7,125,F
+2015,April,ALL India,Food and beverages,123.6,124.6,124,F
+2015,April,Andaman and Nicobar Islands,Food and beverages,123.7,121.9,123,F
+2015,April,Andhra Pradesh,Food and beverages,126.8,124.5,126.1,F
+2015,May,ALL India,Food and beverages,124.4,126.1,125,F
+2015,May,Andaman and Nicobar Islands,Food and beverages,124.5,123.1,123.9,F
+2015,May,Andhra Pradesh,Food and beverages,128.4,128.1,128.3,F
+2015,June,ALL India,Food and beverages,126.6,128.5,127.3,F
+2015,June,Andaman and Nicobar Islands,Food and beverages,128.2,125,126.9,F
+2015,June,Andhra Pradesh,Food and beverages,132.2,132.9,132.4,F
+2015,July,ALL India,Food and beverages,127.5,129.5,128.2,F
+2015,July,Andaman and Nicobar Islands,Food and beverages,131.5,128.6,130.3,F
+2015,July,Andhra Pradesh,Food and beverages,132.5,132.5,132.5,F
+2015,August,ALL India,Food and beverages,129.8,131.1,130.3,F
+2015,August,Andaman and Nicobar Islands,Food and beverages,133.3,129.7,131.8,F
+2015,August,Andhra Pradesh,Food and beverages,135.1,132.4,134.3,F
+2015,September,ALL India,Food and beverages,131,131.5,131.2,F
+2015,September,Andaman and Nicobar Islands,Food and beverages,135.6,131,133.7,F
+2015,September,Andhra Pradesh,Food and beverages,135.5,133.2,134.8,F
+2015,October,ALL India,Food and beverages,131.8,132.6,132.1,F
+2015,October,Andaman and Nicobar Islands,Food and beverages,143,132.5,138.7,F
+2015,October,Andhra Pradesh,Food and beverages,136.6,135.8,136.4,F
+2015,November,ALL India,Food and beverages,132.4,133.3,132.7,F
+2015,November,Andaman and Nicobar Islands,Food and beverages,143,134.2,139.4,F
+2015,November,Andhra Pradesh,Food and beverages,139.3,138,138.9,F
+2015,December,ALL India,Food and beverages,131.4,131.5,131.4,F
+2015,December,Andaman and Nicobar Islands,Food and beverages,144.5,135.4,140.7,F
+2015,December,Andhra Pradesh,Food and beverages,139.9,137.7,139.2,F
+2016,January,ALL India,Food and beverages,131.4,131.2,131.3,F
+2016,January,Andaman and Nicobar Islands,Food and beverages,141.5,131,137.2,F
+2016,January,Andhra Pradesh,Food and beverages,140.8,137.5,139.8,F
+2016,February,ALL India,Food and beverages,130.3,129.1,129.9,F
+2016,February,Andaman and Nicobar Islands,Food and beverages,143.1,131.7,138.4,F
+2016,February,Andhra Pradesh,Food and beverages,138.1,133.2,136.6,F
+2016,March,ALL India,Food and beverages,130.4,128.9,129.8,F
+2016,March,Andaman and Nicobar Islands,Food and beverages,143,125.9,135.9,F
+2016,March,Andhra Pradesh,Food and beverages,138,132.3,136.3,F
+2016,April,ALL India,Food and beverages,131.8,131.8,131.8,F
+2016,April,Andaman and Nicobar Islands,Food and beverages,142.8,128.3,136.8,F
+2016,April,Andhra Pradesh,Food and beverages,139.1,136.1,138.2,F
+2016,May,ALL India,Food and beverages,133.6,134.6,134,F
+2016,May,Andaman and Nicobar Islands,Food and beverages,139.5,138.8,139.2,F
+2016,May,Andhra Pradesh,Food and beverages,143.9,142.2,143.4,F
+2016,June,ALL India,Food and beverages,136,138.2,136.8,F
+2016,June,Andaman and Nicobar Islands,Food and beverages,144.7,143,144,F
+2016,June,Andhra Pradesh,Food and beverages,146,145.3,145.8,F
+2016,July,ALL India,Food and beverages,137.6,139.8,138.4,F
+2016,July,Andaman and Nicobar Islands,Food and beverages,146.6,137.1,142.7,F
+2016,July,Andhra Pradesh,Food and beverages,145.2,143,144.5,F
+2016,August,ALL India,Food and beverages,138,137.6,137.9,F
+2016,August,Andaman and Nicobar Islands,Food and beverages,145.7,134.9,141.2,F
+2016,August,Andhra Pradesh,Food and beverages,144.8,140.7,143.6,F
+2016,September,ALL India,Food and beverages,137.2,135.7,136.6,F
+2016,September,Andaman and Nicobar Islands,Food and beverages,144.5,135.4,140.7,F
+2016,September,Andhra Pradesh,Food and beverages,144.6,137.3,142.4,F
+2016,October,ALL India,Food and beverages,137.4,136.3,137,F
+2016,October,Andaman and Nicobar Islands,Food and beverages,147.3,136.6,142.9,F
+2016,October,Andhra Pradesh,Food and beverages,144.4,138.4,142.6,F
+2016,November,ALL India,Food and beverages,136.6,135.2,136.1,F
+2016,November,Andaman and Nicobar Islands,Food and beverages,149.1,136.2,143.8,F
+2016,November,Andhra Pradesh,Food and beverages,142.2,136.9,140.6,F
+2016,December,ALL India,Food and beverages,134.7,132.8,134,F
+2016,December,Andaman and Nicobar Islands,Food and beverages,151.9,140.4,147.2,F
+2016,December,Andhra Pradesh,Food and beverages,140.7,134.9,138.9,F
+2017,January,ALL India,Food and beverages,133.7,132,133.1,F
+2017,January,Andaman and Nicobar Islands,Food and beverages,153.3,141.9,148.6,F
+2017,January,Andhra Pradesh,Food and beverages,140.2,134.2,138.4,F
+2017,February,ALL India,Food and beverages,133.6,132.1,133,F
+2017,February,Andaman and Nicobar Islands,Food and beverages,154,137.4,147.2,F
+2017,February,Andhra Pradesh,Food and beverages,140.9,134.5,139,F
+2017,March,ALL India,Food and beverages,133.4,132.6,133.1,F
+2017,March,Andaman and Nicobar Islands,Food and beverages,150.1,132.6,142.9,F
+2017,March,Andhra Pradesh,Food and beverages,139.7,134.2,138,F
+2017,April,ALL India,Food and beverages,133.5,133.4,133.5,F
+2017,April,Andaman and Nicobar Islands,Food and beverages,148.3,130.1,140.8,F
+2017,April,Andhra Pradesh,Food and beverages,140.1,132.9,137.9,F
+2017,May,ALL India,Food and beverages,133.8,133.6,133.7,F
+2017,May,Andaman and Nicobar Islands,Food and beverages,149.6,130,141.5,F
+2017,May,Andhra Pradesh,Food and beverages,140.8,134.2,138.8,F
+2017,June,ALL India,Food and beverages,134.9,135.7,135.2,F
+2017,June,Andaman and Nicobar Islands,Food and beverages,150.5,133.4,143.4,F
+2017,June,Andhra Pradesh,Food and beverages,143.4,137.2,141.5,F
+2017,July,ALL India,Food and beverages,138.5,139.8,139,F
+2017,July,Andaman and Nicobar Islands,Food and beverages,152.6,137.7,146.5,F
+2017,July,Andhra Pradesh,Food and beverages,147.8,140,145.4,F
+2017,August,ALL India,Food and beverages,140.6,140.5,140.6,F
+2017,August,Andaman and Nicobar Islands,Food and beverages,149,139,144.9,F
+2017,August,Andhra Pradesh,Food and beverages,146.7,139.7,144.6,F
+2017,September,ALL India,Food and beverages,139.6,138,139,F
+2017,September,Andaman and Nicobar Islands,Food and beverages,149.1,139.9,145.3,F
+2017,September,Andhra Pradesh,Food and beverages,144.9,138,142.8,F
+2017,October,ALL India,Food and beverages,140.4,139.7,140.1,F
+2017,October,Andaman and Nicobar Islands,Food and beverages,149.8,143.2,147.1,F
+2017,October,Andhra Pradesh,Food and beverages,148.2,140.3,145.8,F
+2017,November,ALL India,Food and beverages,142.4,141.5,142.1,F
+2017,November,Andaman and Nicobar Islands,Food and beverages,155,141.2,149.3,F
+2017,November,Andhra Pradesh,Food and beverages,150.7,142.5,148.2,F
+2017,December,ALL India,Food and beverages,141.5,138.8,140.5,F
+2017,December,Andaman and Nicobar Islands,Food and beverages,152.7,143.3,148.8,F
+2017,December,Andhra Pradesh,Food and beverages,149.9,141.4,147.3,F
+2018,January,ALL India,Food and beverages,140.4,137.2,139.2,F
+2018,January,Andaman and Nicobar Islands,Food and beverages,152.1,142.4,148.1,F
+2018,January,Andhra Pradesh,Food and beverages,149.6,139.4,146.5,F
+2018,February,ALL India,Food and beverages,138.7,135.6,137.6,F
+2018,February,Andaman and Nicobar Islands,Food and beverages,148.4,138.4,144.3,F
+2018,February,Andhra Pradesh,Food and beverages,146.3,136.4,143.3,F
+2018,March,ALL India,Food and beverages,138.6,134.8,137.2,F
+2018,March,Andaman and Nicobar Islands,Food and beverages,148.7,135.4,143.2,F
+2018,March,Andhra Pradesh,Food and beverages,145.3,135,142.2,F
+2018,April,ALL India,Food and beverages,138.6,135.7,137.5,F
+2018,April,Andaman and Nicobar Islands,Food and beverages,152.4,136.7,145.9,F
+2018,April,Andhra Pradesh,Food and beverages,145,135.1,142,F
+2018,May,ALL India,Food and beverages,139.1,136.4,138.1,F
+2018,May,Andaman and Nicobar Islands,Food and beverages,149.9,136.9,144.5,F
+2018,May,Andhra Pradesh,Food and beverages,146.8,137,143.8,F
+2018,June,ALL India,Food and beverages,140,138.4,139.4,F
+2018,June,Andaman and Nicobar Islands,Food and beverages,149.5,143.3,146.9,F
+2018,June,Andhra Pradesh,Food and beverages,147.5,137.4,144.4,F
+2018,July,ALL India,Food and beverages,142,140.3,141.4,F
+2018,July,Andaman and Nicobar Islands,Food and beverages,154.3,144.6,150.3,F
+2018,July,Andhra Pradesh,Food and beverages,149.3,138.9,146.2,F
+2018,August,ALL India,Food and beverages,142.7,140.1,141.7,F
+2018,August,Andaman and Nicobar Islands,Food and beverages,153.5,139.5,147.7,F
+2018,August,Andhra Pradesh,Food and beverages,149,138.8,145.9,F
+2018,September,ALL India,Food and beverages,141.3,138.9,140.4,F
+2018,September,Andaman and Nicobar Islands,Food and beverages,153.4,139.2,147.5,F
+2018,September,Andhra Pradesh,Food and beverages,142.9,138.1,141.4,F
+2018,October,ALL India,Food and beverages,140.2,139.4,139.9,F
+2018,October,Andaman and Nicobar Islands,Food and beverages,161.5,140.5,152.8,F
+2018,October,Andhra Pradesh,Food and beverages,135.9,138.1,136.6,F
+2018,November,ALL India,Food and beverages,140,139.1,139.7,F
+2018,November,Andaman and Nicobar Islands,Food and beverages,168.4,142.1,157.6,F
+2018,November,Andhra Pradesh,Food and beverages,137.1,138.5,137.5,F
+2018,December,ALL India,Food and beverages,138.5,137.6,138.2,F
+2018,December,Andaman and Nicobar Islands,Food and beverages,163.2,149.9,157.7,F
+2018,December,Andhra Pradesh,Food and beverages,138.2,138.9,138.4,F
+2019,January,ALL India,Food and beverages,137.4,137.3,137.4,F
+2019,January,Andaman and Nicobar Islands,Food and beverages,168,146.8,159.3,F
+2019,January,Andhra Pradesh,Food and beverages,138.3,139.5,138.7,F
+2019,February,ALL India,Food and beverages,137.2,138,137.5,F
+2019,February,Andaman and Nicobar Islands,Food and beverages,172,148.5,162.3,F
+2019,February,Andhra Pradesh,Food and beverages,139.3,139.4,139.3,F
+2019,March,ALL India,Food and beverages,137.3,139.6,138.1,F
+2019,March,Andaman and Nicobar Islands,Food and beverages,170.8,149.3,161.9,F
+2019,March,Andhra Pradesh,Food and beverages,138.7,139.9,139.1,F
+2019,April,ALL India,Food and beverages,138,141.7,139.4,F
+2019,April,Andaman and Nicobar Islands,Food and beverages,166.6,148.3,159.1,F
+2019,April,Andhra Pradesh,Food and beverages,140,141.9,140.6,F
+2019,May,ALL India,Food and beverages,139.2,143.8,140.9,F
+2019,May,Andaman and Nicobar Islands,Food and beverages,166.1,150,159.5,F
+2019,May,Andhra Pradesh,Food and beverages,141,146.1,142.5,F
+2019,June,ALL India,Food and beverages,141,145.6,142.7,F
+2019,June,Andaman and Nicobar Islands,Food and beverages,170.2,151.3,162.4,F
+2019,June,Andhra Pradesh,Food and beverages,144.3,149.3,145.8,F
+2019,July,ALL India,Food and beverages,143,147.7,144.7,F
+2019,July,Andaman and Nicobar Islands,Food and beverages,171.5,154.8,164.6,F
+2019,July,Andhra Pradesh,Food and beverages,144.9,150.1,146.5,F
+2019,August,ALL India,Food and beverages,144,149.1,145.9,F
+2019,August,Andaman and Nicobar Islands,Food and beverages,172.2,153.6,164.5,F
+2019,August,Andhra Pradesh,Food and beverages,143,150.1,145.1,F
+2019,September,ALL India,Food and beverages,145.5,149.5,147,F
+2019,September,Andaman and Nicobar Islands,Food and beverages,180.9,157.2,171.1,F
+2019,September,Andhra Pradesh,Food and beverages,143.6,150.2,145.6,F
+2019,October,ALL India,Food and beverages,148.3,151.9,149.6,F
+2019,October,Andaman and Nicobar Islands,Food and beverages,183.3,160.6,173.9,F
+2019,October,Andhra Pradesh,Food and beverages,145.7,152.2,147.7,F
+2019,November,ALL India,Food and beverages,150.9,153.6,151.9,F
+2019,November,Andaman and Nicobar Islands,Food and beverages,186.7,164.3,177.5,F
+2019,November,Andhra Pradesh,Food and beverages,148.4,156,150.7,F
+2019,December,ALL India,Food and beverages,154.3,156.3,155,F
+2019,December,Andaman and Nicobar Islands,Food and beverages,187.2,163.6,177.5,F
+2019,December,Andhra Pradesh,Food and beverages,154.2,159.3,155.7,F
+2020,January,ALL India,Food and beverages,153,154.4,153.5,F
+2020,January,Andaman and Nicobar Islands,Food and beverages,186.7,158.7,175.2,F
+2020,January,Andhra Pradesh,Food and beverages,149.9,157.2,152.1,F
+2020,February,ALL India,Food and beverages,149.8,151.7,150.5,F
+2020,February,Andaman and Nicobar Islands,Food and beverages,183.2,155.4,171.7,F
+2020,February,Andhra Pradesh,Food and beverages,146.5,154.1,148.8,F
+2020,March,ALL India,Food and beverages,148.2,150.1,148.9,F
+2020,April,ALL India,Food and beverages,152.8,156.1,154,F*
+2020,May,ALL India,Food and beverages,151.4,154.8,152.7,F*
+2020,June,ALL India,Food and beverages,152.3,157,154,F
+2020,July,ALL India,Food and beverages,155.3,159.9,157,F
+2020,August,ALL India,Food and beverages,156.1,161.3,158,F
+2020,August,Andaman and Nicobar Islands,Food and beverages,182.8,168.7,177,F
+2020,August,Andhra Pradesh,Food and beverages,155.5,161.5,157.3,F
+2020,September,ALL India,Food and beverages,159.6,164.4,161.4,F
+2020,September,Andaman and Nicobar Islands,Food and beverages,180.4,166.4,174.6,F
+2020,September,Andhra Pradesh,Food and beverages,160.2,166.5,162.1,F
+2020,October,ALL India,Food and beverages,163.4,167,164.7,F
+2020,October,Andaman and Nicobar Islands,Food and beverages,188.5,172.6,181.9,F
+2020,October,Andhra Pradesh,Food and beverages,165.3,172.8,167.6,F
+2020,November,ALL India,Food and beverages,164.5,167,165.4,F
+2020,November,Andaman and Nicobar Islands,Food and beverages,190.9,174.2,184,F
+2020,November,Andhra Pradesh,Food and beverages,165.8,173.7,168.2,F
+2020,December,ALL India,Food and beverages,159.6,163.4,161,F
+2020,December,Andaman and Nicobar Islands,Food and beverages,191.5,172.6,183.7,F
+2020,December,Andhra Pradesh,Food and beverages,164,171.4,166.2,F
+2021,January,ALL India,Food and beverages,155.7,160.8,157.6,F
+2021,January,Andaman and Nicobar Islands,Food and beverages,183.3,166.3,176.3,F
+2021,January,Andhra Pradesh,Food and beverages,161.1,169.1,163.5,F
+2021,February,ALL India,Food and beverages,154.7,160.8,156.9,F
+2021,February,Andaman and Nicobar Islands,Food and beverages,181.2,162.4,173.4,F
+2021,February,Andhra Pradesh,Food and beverages,160.5,168.3,162.9,F
+2021,March,ALL India,Food and beverages,154.5,160.4,156.7,F
+2021,March,Andaman and Nicobar Islands,Food and beverages,184.6,162,175.3,F
+2021,March,Andhra Pradesh,Food and beverages,159.7,168.9,162.5,F
+2021,April,ALL India,Food and beverages,155.6,162,158,F
+2021,April,Andaman and Nicobar Islands,Food and beverages,178.6,161.1,171.4,F
+2021,April,Andhra Pradesh,Food and beverages,160.7,169.4,163.3,F
+2021,May,ALL India,Food and beverages,158.7,164.2,160.7,F
+2021,May,Andaman and Nicobar Islands,Food and beverages,177.8,165.9,172.9,F
+2021,May,Andhra Pradesh,Food and beverages,162.9,170.7,165.3,F
+2021,June,ALL India,Food and beverages,160.5,166.2,162.6,F
+2021,June,Andaman and Nicobar Islands,Food and beverages,184.1,170.2,178.4,F
+2021,June,Andhra Pradesh,Food and beverages,164.2,172.4,166.7,F
+2021,July,ALL India,Food and beverages,161.7,167.9,164,F
+2021,July,Andaman and Nicobar Islands,Food and beverages,183.2,169.5,177.6,F
+2021,July,Andhra Pradesh,Food and beverages,164.9,173.6,167.5,F
+2021,August,ALL India,Food and beverages,161.8,167.6,163.9,F
+2021,August,Andaman and Nicobar Islands,Food and beverages,187.1,172.1,180.9,F
+2021,August,Andhra Pradesh,Food and beverages,166.1,173.5,168.3,F
+2021,September,ALL India,Food and beverages,162.1,167.3,164,F
+2021,September,Andaman and Nicobar Islands,Food and beverages,188.7,176.3,183.6,F
+2021,September,Andhra Pradesh,Food and beverages,165.1,172.9,167.5,F
+2021,October,ALL India,Food and beverages,165.5,171.5,167.7,F
+2021,October,Andaman and Nicobar Islands,Food and beverages,189.8,180.5,186,F
+2021,October,Andhra Pradesh,Food and beverages,166.9,175.9,169.6,F
+2021,November,ALL India,Food and beverages,167.5,173.5,169.7,F
+2021,November,Andaman and Nicobar Islands,Food and beverages,196,182.7,190.5,F
+2021,November,Andhra Pradesh,Food and beverages,170.1,177.4,172.3,F
+2021,December,ALL India,Food and beverages,165.8,172.2,168.2,F
+2021,December,Andaman and Nicobar Islands,Food and beverages,202.1,183.7,194.5,F
+2021,December,Andhra Pradesh,Food and beverages,170.2,179.2,172.9,F
+2022,January,ALL India,Food and beverages,164.1,170.3,166.4,F
+2022,January,Andaman and Nicobar Islands,Food and beverages,195.6,176,187.5,F
+2022,January,Andhra Pradesh,Food and beverages,167,175.7,169.6,F
+2022,February,ALL India,Food and beverages,163.9,170.2,166.2,F
+2022,February,Andaman and Nicobar Islands,Food and beverages,194.5,170.5,184.6,F
+2022,February,Andhra Pradesh,Food and beverages,166.1,175,168.8,F
+2022,March,ALL India,Food and beverages,166.6,171.5,168.4,F
+2022,March,Andaman and Nicobar Islands,Food and beverages,191.5,168.6,182.1,F
+2022,March,Andhra Pradesh,Food and beverages,169.6,179.3,172.5,F
+2022,April,ALL India,Food and beverages,168.6,174.5,170.8,F
+2022,April,Andaman and Nicobar Islands,Food and beverages,192.7,173.3,184.7,F
+2022,April,Andhra Pradesh,Food and beverages,171.7,180.7,174.4,F
+2022,May,ALL India,Food and beverages,170.8,177.5,173.3,F
+2022,May,Andaman and Nicobar Islands,Food and beverages,198.2,176.7,189.3,F
+2022,May,Andhra Pradesh,Food and beverages,179.6,186.1,181.6,F
+2022,June,ALL India,Food and beverages,172.4,179.3,174.9,F
+2022,June,Andaman and Nicobar Islands,Food and beverages,209.8,179,197.1,F
+2022,June,Andhra Pradesh,Food and beverages,180.5,187.8,182.7,F
+2022,July,ALL India,Food and beverages,172.5,179.4,175,F
+2022,July,Andaman and Nicobar Islands,Food and beverages,202.3,179.6,192.9,F
+2022,July,Andhra Pradesh,Food and beverages,174.9,184.6,177.8,F
+2022,August,ALL India,Food and beverages,173.9,180.4,176.3,F
+2022,August,Andaman and Nicobar Islands,Food and beverages,199.2,173.7,188.7,F
+2022,August,Andhra Pradesh,Food and beverages,172.7,183.3,175.9,F
+2022,September,ALL India,Food and beverages,175.5,181.8,177.8,F
+2022,September,Andaman and Nicobar Islands,Food and beverages,200.2,177.5,190.8,F
+2022,September,Andhra Pradesh,Food and beverages,176.9,187.1,180,F
+2022,October,ALL India,Food and beverages,177.4,183.3,179.6,F
+2022,October,Andaman and Nicobar Islands,Food and beverages,203.5,184.8,195.8,F
+2022,October,Andhra Pradesh,Food and beverages,179.3,188.2,182,F
+2022,November,ALL India,Food and beverages,176.6,181.3,178.3,F
+2022,November,Andaman and Nicobar Islands,Food and beverages,204.2,186.4,196.9,F
+2022,November,Andhra Pradesh,Food and beverages,179,187.5,181.6,F
+2022,December,ALL India,Food and beverages,174.4,178.6,175.9,F
+2022,December,Andaman and Nicobar Islands,Food and beverages,205,185.4,196.9,F
+2022,December,Andhra Pradesh,Food and beverages,178.4,185.9,180.7,F
+2023,January,ALL India,Food and beverages,175,179.5,176.7,F
+2023,January,Andaman and Nicobar Islands,Food and beverages,202.8,182.3,194.3,F
+2023,January,Andhra Pradesh,Food and beverages,180,187.5,182.3,F
+2023,February,ALL India,Food and beverages,174.7,179.8,176.6,F
+2023,February,Andaman and Nicobar Islands,Food and beverages,199.6,181.1,192,F
+2023,February,Andhra Pradesh,Food and beverages,178.8,186.1,181,F
+2023,March,ALL India,Food and beverages,174.8,180.8,177,F
+2023,March,Andaman and Nicobar Islands,Food and beverages,194.6,178.9,188.1,F
+2023,March,Andhra Pradesh,Food and beverages,177.8,186.2,180.3,F
+2023,April,ALL India,Food and beverages,175.5,182.1,177.9,F
+2023,April,Andaman and Nicobar Islands,Food and beverages,196.5,181.5,190.3,F
+2023,April,Andhra Pradesh,Food and beverages,178,187.1,180.8,F
+2023,May,ALL India,Food and beverages,176.8,183.1,179.1,F
+2023,May,Andaman and Nicobar Islands,Food and beverages,199.7,184.4,193.4,F
+2023,May,Andhra Pradesh,Food and beverages,180.5,189.2,183.1,F
+2023,June,ALL India,Food and beverages,180.5,187.6,183.1,F
+2023,June,Andaman and Nicobar Islands,Food and beverages,203.1,185.1,195.7,F
+2023,June,Andhra Pradesh,Food and beverages,187.7,196.4,190.3,F
+2023,July,ALL India,Food and beverages,190,199.4,193.5,F
+2023,July,Andaman and Nicobar Islands,Food and beverages,208.2,191.2,201.2,F
+2023,July,Andhra Pradesh,Food and beverages,196.7,204.2,199,F
+2023,August,ALL India,Food and beverages,189.5,197.6,192.5,F
+2023,August,Andaman and Nicobar Islands,Food and beverages,207.7,187.3,199.3,F
+2023,August,Andhra Pradesh,Food and beverages,193.2,203.4,196.3,F
+2023,September,ALL India,Food and beverages,186.7,193,189,F
+2023,September,Andaman and Nicobar Islands,Food and beverages,205.5,190.3,199.2,F
+2023,September,Andhra Pradesh,Food and beverages,190.5,200.2,193.4,F
+2023,October,ALL India,Food and beverages,188.5,194.9,190.9,F
+2023,October,Andaman and Nicobar Islands,Food and beverages,209,194.8,203.1,F
+2023,October,Andhra Pradesh,Food and beverages,190.9,200.7,193.9,F
+2023,November,ALL India,Food and beverages,190.2,196.6,192.6,F
+2023,November,Andaman and Nicobar Islands,Food and beverages,216.6,198,208.9,F
+2023,November,Andhra Pradesh,Food and beverages,193.3,202.1,196,F
+2023,December,ALL India,Food and beverages,188.8,195.3,191.2,F
+2023,December,Andaman and Nicobar Islands,Food and beverages,217,199,209.6,F
+2023,December,Andhra Pradesh,Food and beverages,192.9,203,196,F
+2024,January,ALL India,Food and beverages,187.7,194.2,190.1,F
+2024,January,Andaman and Nicobar Islands,Food and beverages,214.1,191.5,204.8,F
+2024,January,Andhra Pradesh,Food and beverages,193.4,201.8,195.9,F
+2024,February,ALL India,Food and beverages,187.8,194.6,190.3,F
+2024,February,Andaman and Nicobar Islands,Food and beverages,211.8,193.7,204.3,F
+2024,February,Andhra Pradesh,Food and beverages,194.8,203.7,197.5,F
+2024,March,ALL India,Food and beverages,188.5,194.4,190.7,F
+2024,March,Andaman and Nicobar Islands,Food and beverages,203.4,191.1,198.3,F
+2024,March,Andhra Pradesh,Food and beverages,193.5,201.5,195.9,F
+2024,April,ALL India,Food and beverages,189.5,196.1,191.9,F
+2024,April,Andaman and Nicobar Islands,Food and beverages,203.3,190.6,198.1,F
+2024,April,Andhra Pradesh,Food and beverages,195,203.3,197.5,F
+2024,May,ALL India,Food and beverages,190.6,197.6,193.2,F
+2024,May,Andaman and Nicobar Islands,Food and beverages,211.8,197,205.7,F
+2024,May,Andhra Pradesh,Food and beverages,198.4,207.4,201.1,F
+2024,June,ALL India,Food and beverages,195.5,203.5,198.4,F
+2024,June,Andaman and Nicobar Islands,Food and beverages,219.9,206.4,214.3,F
+2024,June,Andhra Pradesh,Food and beverages,205.2,214.7,208.1,F
+2024,July,ALL India,Food and beverages,200.4,208.3,203.3,F
+2024,July,Andaman and Nicobar Islands,Food and beverages,229.3,209.6,221.2,F
+2024,July,Andhra Pradesh,Food and beverages,204.3,213.2,207,F
+2024,August,ALL India,Food and beverages,200.2,207.1,202.7,F
+2024,August,Andaman and Nicobar Islands,Food and beverages,216.8,197.3,208.8,F
+2024,August,Andhra Pradesh,Food and beverages,200.1,209.7,203,F
+2024,September,ALL India,Food and beverages,202.1,209.5,204.8,F
+2024,September,Andaman and Nicobar Islands,Food and beverages,212,198.9,206.6,F
+2024,September,Andhra Pradesh,Food and beverages,202.3,213.1,205.6,F
+2024,October,ALL India,Food and beverages,206.7,214.1,209.4,F
+2024,October,Andaman and Nicobar Islands,Food and beverages,214.3,198.9,207.9,F
+2024,October,Andhra Pradesh,Food and beverages,208.1,218.2,211.2,F
+2024,November,ALL India,Food and beverages,206.2,212.3,208.4,F
+2024,November,Andaman and Nicobar Islands,Food and beverages,220.3,204.8,213.9,F
+2024,November,Andhra Pradesh,Food and beverages,206,215.7,208.9,F
+2024,December,ALL India,Food and beverages,203.9,209.4,205.9,F
+2024,December,Andaman and Nicobar Islands,Food and beverages,225,204.6,216.6,F
+2024,December,Andhra Pradesh,Food and beverages,203.4,213.5,206.5,F
+2025,January,ALL India,Food and beverages,198.8,204.6,200.9,F
+2025,January,Andaman and Nicobar Islands,Food and beverages,218.7,202.4,212,F
+2025,January,Andhra Pradesh,Food and beverages,202.1,212.1,205.1,F
